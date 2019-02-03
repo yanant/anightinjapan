@@ -1,4 +1,7 @@
 ---
+title: About
+permalink: "/about/"
+layout: default
 ---
 
 ![about.jpg](/uploads/about.jpg)
