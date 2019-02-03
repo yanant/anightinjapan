@@ -1,12 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-<<<<<<< HEAD
 layout: default
-=======
-position: 0
-layout: page
->>>>>>> 6857271b9d31a1b4ca0dc1e51c029f49865a6485
 ---
 
 ![about.jpg](/uploads/about.jpg)
